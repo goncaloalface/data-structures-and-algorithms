@@ -49,6 +49,7 @@ public class StringBuilder {
         StringBuilder sb = new StringBuilder();
         sb.append("Test");
         sb.append("Test1");
+        sb.append("Test2");
         System.out.println(sb.size);
         System.out.println(sb.toString());
     }
